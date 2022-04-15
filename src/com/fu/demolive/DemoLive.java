@@ -11,7 +11,7 @@ package com.fu.demolive;
 // Ta viet cai class de cung cap atien ich cho noi khac xai
 // khi ta cung cap tien ich cho noi khac xa, do lai luc ta khong can nho cai gi
 // cho reing ta, ham static giup lam dieu nay
-public class DemoLIve {
+public class DemoLive {
 	//n! = 1.2.3.4.5.6.7... n
 	//Quy uoc: 0! = 1! = 1
 	//20! la vua khop kieu long, kieu long toi da 18 con so 0
